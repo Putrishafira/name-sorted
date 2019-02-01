@@ -1,0 +1,9 @@
+C:\Users\Putri Shafira\Documents\name-sorter\name-sorter\bin\Debug\name-sorter.exe.config
+C:\Users\Putri Shafira\Documents\name-sorter\name-sorter\bin\Debug\name-sorter.exe
+C:\Users\Putri Shafira\Documents\name-sorter\name-sorter\bin\Debug\name-sorter.pdb
+C:\Users\Putri Shafira\Documents\name-sorter\name-sorter\obj\Debug\name-sorter.csprojResolveAssemblyReference.cache
+C:\Users\Putri Shafira\Documents\name-sorter\name-sorter\obj\Debug\name_sorter.Form1.resources
+C:\Users\Putri Shafira\Documents\name-sorter\name-sorter\obj\Debug\name_sorter.Properties.Resources.resources
+C:\Users\Putri Shafira\Documents\name-sorter\name-sorter\obj\Debug\name-sorter.csproj.GenerateResource.Cache
+C:\Users\Putri Shafira\Documents\name-sorter\name-sorter\obj\Debug\name-sorter.exe
+C:\Users\Putri Shafira\Documents\name-sorter\name-sorter\obj\Debug\name-sorter.pdb
